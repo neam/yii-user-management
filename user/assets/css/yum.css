@@ -12,9 +12,9 @@ div.form .tooltip { display: none; background-color:#EFFDFF; border:1px solid #7
 .menucontent li {margin: 5px 0px 0px 9px; list-style-type:none;}
 
 .avatar {float:left; margin-right: 5px;}
-#usercontent {padding: 20px; width:70%; margin: 5px;}
+/*#usercontent {padding: 20px; width:70%; margin: 5px;}
 label { display: inline }
-.checkbox { float: left; margin-right: 5px; }
+.checkbox { float: left; margin-right: 5px; }*/
 .listbox { display: inline; } 
 .roles {float: right; }
 .membership { float: left;margin: 5px; }
